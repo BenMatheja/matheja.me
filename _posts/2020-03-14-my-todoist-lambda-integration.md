@@ -17,3 +17,7 @@ date: 2020-03-14 09:52 +0100
 * Serverless Framework
 * Github Repository https://github.com/BenMatheja/todoist-serverless-lambda
 * AWS Region US-West-1
+
+# Next
+* Extend the handling of other events (e.g. tracking a streak)
+* Improve Security by scoping
