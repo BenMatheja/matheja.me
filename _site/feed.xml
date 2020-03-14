@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-14T08:26:14+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ben Matheja</title><subtitle>Delivering digital products @porsche | applying agile methods  | fascinated by autonomous leadership principles | posts are my own opinion</subtitle><entry><title type="html">My Todoist Hacks</title><link href="http://localhost:4000/journal/2019/01/03/todoist-markdown.html" rel="alternate" type="text/html" title="My Todoist Hacks" /><published>2019-01-03T00:00:00+01:00</published><updated>2019-01-03T00:00:00+01:00</updated><id>http://localhost:4000/journal/2019/01/03/todoist-markdown</id><content type="html" xml:base="http://localhost:4000/journal/2019/01/03/todoist-markdown.html">&lt;p&gt;My journey with &lt;a href=&quot;https://todoist.com&quot;&gt;Todoist&lt;/a&gt; began in 2014 during my placement at &lt;a href=&quot;www.zweitag.de&quot;&gt;Zweitag&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Within a meeting with my former Manager Julian, I did a short glance on his screen spotting the infamous red icon. Knowing that Julian was really passionate towards efficient working approaches I had to do some research on the at-that-point unknown app.&lt;/p&gt;
+
+&lt;p&gt;Later the underlying concept, the &lt;a href=&quot;https://gettingthingsdone.com/&quot;&gt;Getting Things Done methodology&lt;/a&gt;  tremendeously helped me to stay focussed during the completion of my Masters studies. If you haven’t already read the &lt;a href=&quot;https://gettingthingsdone.com/getting-things-done-the-art-of-stress-free-productivity/&quot;&gt;Book&lt;/a&gt; i do recommend it. Don’t read it by heart, but get inspired by the concepts discussed.&lt;/p&gt;
+
+&lt;p&gt;I’ve compiled some “hacks” on this page which I use to make Todoist productivity tool of choice.&lt;/p&gt;
+
+&lt;h2 id=&quot;use-shared-projects&quot;&gt;Use Shared Projects&lt;/h2&gt;
+
+&lt;p&gt;I’m using a shared project as a shopping list with my spouse. It’s dead simple and works with her free plan.&lt;/p&gt;
+
+&lt;h2 id=&quot;use-not-ending-tasks-with-bold-typeface&quot;&gt;Use not Ending Tasks with bold typeface&lt;/h2&gt;
+&lt;p&gt;To get a better overview within Projects, you can define tasks which are not completeable serving as kind of sections.&lt;/p&gt;
+
+&lt;p&gt;Both convetions lead to a non completeable task with a bold typeface&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* **Gelbe Säcke** 🗑
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* !!Work!! 👔
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;using-unicode-emojis&quot;&gt;Using Unicode Emojis&lt;/h2&gt;
+
+&lt;p&gt;Todoist supports &lt;a href=&quot;https://unicode.org/emoji/charts/full-emoji-list.html&quot;&gt;unicode Emojis&lt;/a&gt; within Tasks, Projects and Labels.&lt;/p&gt;
+
+&lt;h2 id=&quot;use-webhook-integration-for-custom-workflows&quot;&gt;Use Webhook Integration for Custom Workflows&lt;/h2&gt;
+
+&lt;p&gt;I’m using &lt;a href=&quot;https://developer.todoist.com/sync/v7/#webhooks&quot;&gt;Todoist Webhooks&lt;/a&gt; to feed completed Tasks into AWS Lambda which inspects the completed task and triggers custom actions such as creating a new task.
+The integration is pretty similar to that what &lt;a href=&quot;https://zapier.com&quot;&gt;Zapier&lt;/a&gt; within premium does, besides it costs me 0€ as it runs within the AWS free tier.&lt;/p&gt;
+
+&lt;p&gt;Currently using that to remind me before reaching the 10-hours working time limit in Germany.&lt;/p&gt;
+
+&lt;p&gt;The function is based &lt;a href=&quot;https://github.com/BenMatheja/todoist-flask&quot;&gt;on a previous project&lt;/a&gt; which did the same as a standalone Python &lt;a href=&quot;http://flask.pocoo.org/&quot;&gt;Flask&lt;/a&gt; application.&lt;/p&gt;
+
+&lt;h2 id=&quot;use-inbox-for-ideas&quot;&gt;Use Inbox for ideas&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=CKjIJYCfBJA&amp;amp;feature=youtu.be&quot;&gt;Use your Inbox to store Ideas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;see-also&quot;&gt;See Also&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://get.todoist.help/hc/en-us/articles/205195102-Text-Formatting-&quot;&gt;Todoist Help on Text Formatting&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hairofthedogblog.com/2018/07/using-todoist-photography-workflow/&quot;&gt;Usage of Templates in Todoist&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.todoist.com/user-stories/systemist-personal-workflow/&quot;&gt;Essentials of a Productivity System&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.43folders.com/izero&quot;&gt;Related Concept: Inbox Zero&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Ben Matheja</name></author><category term="productivity" /><category term="todoist" /><summary type="html">My journey with Todoist began in 2014 during my placement at Zweitag. Within a meeting with my former Manager Julian, I did a short glance on his screen spotting the infamous red icon. Knowing that Julian was really passionate towards efficient working approaches I had to do some research on the at-that-point unknown app. Later the underlying concept, the Getting Things Done methodology tremendeously helped me to stay focussed during the completion of my Masters studies. If you haven’t already read the Book i do recommend it. Don’t read it by heart, but get inspired by the concepts discussed. I’ve compiled some “hacks” on this page which I use to make Todoist productivity tool of choice. Use Shared Projects I’m using a shared project as a shopping list with my spouse. It’s dead simple and works with her free plan. Use not Ending Tasks with bold typeface To get a better overview within Projects, you can define tasks which are not completeable serving as kind of sections. Both convetions lead to a non completeable task with a bold typeface * **Gelbe Säcke** 🗑 * !!Work!! 👔 Using Unicode Emojis Todoist supports unicode Emojis within Tasks, Projects and Labels. Use Webhook Integration for Custom Workflows I’m using Todoist Webhooks to feed completed Tasks into AWS Lambda which inspects the completed task and triggers custom actions such as creating a new task. The integration is pretty similar to that what Zapier within premium does, besides it costs me 0€ as it runs within the AWS free tier. Currently using that to remind me before reaching the 10-hours working time limit in Germany. The function is based on a previous project which did the same as a standalone Python Flask application. Use Inbox for ideas Use your Inbox to store Ideas See Also Todoist Help on Text Formatting Usage of Templates in Todoist Essentials of a Productivity System Related Concept: Inbox Zero</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/amrum.jpg" /><media:content medium="image" url="http://localhost:4000/amrum.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
