@@ -4,7 +4,6 @@ title: "My Todoist Hacks"
 author: "Ben Matheja"
 categories: journal
 tags: [productivity, todoist]
-image: amrum.jpg
 ---
 
 My journey with [Todoist](https://todoist.com) began in 2014 during my placement at [Zweitag](www.zweitag.de). 
