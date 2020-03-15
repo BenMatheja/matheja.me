@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Todoist Hacks"
+title: "How I'm using Todoist"
 author: "Ben Matheja"
 categories: journal
 tags: [productivity, todoist]
