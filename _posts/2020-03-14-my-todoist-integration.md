@@ -20,11 +20,14 @@ I started looking for ways and found the following simple truths. There are few 
 ### Zapier
 [Zapier](https://zapier.com/apps/todoist/integrations) featured a lot of integrations out of the box.
 But it wasn't an option as the free plan featured a 15 minute update time. 
+
 I wasn't able to find out, if the update time will exactly be 15 minutes. So waiting 15 minutes until the event has been processed by [Zapier](https://zapier.com/apps/todoist/integrations) seemed like a show stopper. In fact the event entering the office had to be computed in near real-time to produce accurate results.
 
 ### IFTT
-I looked on [IFTT](https://ifttt.com/todoist) and it immediately looked promising.
-The platform has been build on "if XY happened in Todoist, then do YZ". I looked through available integrations but the use case I was longing for was missing. Back in the days the pricing has been different, so a premium plan was necessary to have the integration running.
+I looked on [IFTT](https://ifttt.com/todoist) and it immediately seemed promising.
+The platform has been build on "if XY happened in Todoist, then do YZ". 
+
+I looked through available integrations but the use case I was longing for was missing. Back in the days the pricing has been different, so a premium plan was necessary to have the integration running.
 Every time someone asks you to pay something, you get creative in how to avoid those costs.
 
 ### Run your Own
