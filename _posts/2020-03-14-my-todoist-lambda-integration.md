@@ -39,7 +39,9 @@ In that time I was working on a Python [Flask](https://github.com/pallets/flask)
 
 I started building my own integration [todoist-flask](https://github.com/BenMatheja/todoist-flask). A small service, running on my own machine.
 
-### Learning: Find a smart way to contain your application e.g. containers?
+![Todoist Flask Overview](/assets/todoist-flask-overview.jpg "Todoist Flask Overview]")
+
+### Learning: Find a smart way to contain your application
 In retrospective I probably spent two thirds of the time not on business logic.
 Rather I spent a lot of time to build a poor mans CI/CD i.e. how to deploy a version of the app to my instance.
 
