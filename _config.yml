@@ -17,7 +17,7 @@ title: Ben Matheja
 email: ben@matheja.me
 description: >- # this means to ignore newlines until "baseurl:"
   Delivering digital products @porsche | applying agile methods 
-  | fascinated by autonomous leadership principles | posts are my own opinion
+  | fascinated by autonomous leadership principles
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://matheja.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: benmatheja
