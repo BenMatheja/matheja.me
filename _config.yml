@@ -23,7 +23,7 @@ url: "https://matheja.me" # the base hostname & protocol for your site, e.g. htt
 twitter_username: benmatheja
 github_username:  BenMatheja
 linkedin_username: benmatheja
-
+google_analytics: UA-90631871-7
 # Build settings
 markdown: kramdown
 theme: minima
