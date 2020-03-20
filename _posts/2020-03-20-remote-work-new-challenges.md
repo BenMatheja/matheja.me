@@ -4,9 +4,10 @@ title: Remote Work - Challenges ahead
 date: 2020-03-20 12:40 +0100
 ---
 Due to the COVID-19 spread many companies have to transform their working reality towards a fully remote approach.
-Where possible companies try to remain their operations while protecting their workforce.
-Before the spread the company I'm working at allowed a part of their workforce to work remotely for one or two days a week.
+Wherever possible, companies try to remain their operations while protecting their workforce.
+Before the spread, the company I'm working at allowed a part of their workforce to work remotely for one or two days a week.
 The spread completely changed that.
+<!--more-->
 
 In a sense of protecting the workforce, everyone capable of doing remote work is now obliged to.
 We, the modern knowledge workers, are not used to this new situation at hand, being fully-remote workers in a remote teams setting.

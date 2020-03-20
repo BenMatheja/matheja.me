@@ -5,10 +5,9 @@ author: "Ben Matheja"
 categories: journal
 tags: [productivity, todoist]
 ---
-
 My journey with [Todoist](https://todoist.com) began in 2014 during my placement at [Zweitag](www.zweitag.de). 
-
-Within a meeting with my former Manager Julian, I did a short glance on his screen spotting the infamous red icon. Knowing that Julian was really passionate towards efficient working approaches I had to do some research on the at-that-point unknown app.
+During a meeting with my former manager Julian, I did a short glance on his screen spotting the infamous red icon. Knowing that Julian was really passionate on efficient working approaches I had to do research of the unknown app.
+<!--more-->
 
 Later the underlying concept, the [Getting Things Done methodology](https://gettingthingsdone.com/)  tremendeously helped me to stay focussed during the completion of my Masters studies. If you haven't already read the [Book](https://gettingthingsdone.com/getting-things-done-the-art-of-stress-free-productivity/) i do recommend it. Don't read it by heart, but get inspired by the concepts discussed.
 

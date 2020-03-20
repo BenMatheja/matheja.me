@@ -24,6 +24,8 @@ twitter_username: benmatheja
 github_username:  BenMatheja
 linkedin_username: benmatheja
 google_analytics: UA-90631871-7
+show_excerpts: true
+excerpt_separator: <!--more-->
 # Build settings
 markdown: kramdown
 theme: minima
