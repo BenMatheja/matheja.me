@@ -135,3 +135,122 @@ hello-world                                         latest              fce289e9
 PS C:\Users\ben>
 ```
 
+### Back to the initial plan
+Do a small tutorial of kubernets with https://kubernetes.io/docs/tutorials/hello-minikube/
+
+minikube start
+fails
+minikube delete & minikube start again
+works
+
+mother of god kubectl is also giving me the cluster-info
+``` 
+ben@ben-desktop  ~  kubectl cluster-info
+Kubernetes master is running at https://127.0.0.1:32771
+KubeDNS is running at https://127.0.0.1:32771/api/v1/namespaces/kube-system/services/kube-dns:dns/proxy
+
+To further debug and diagnose cluster problems, use 'kubectl cluster-info dump'.
+ ben@ben-desktop  ~ 
+```
+
+Cannot access the service via IP, suspect minikube.exe installation is causing issue
+```
+ ben@ben-desktop  ~  minikube service hello-node
+|-----------|------------|-------------|-------------------------|
+| NAMESPACE |    NAME    | TARGET PORT |           URL           |
+|-----------|------------|-------------|-------------------------|
+| default   | hello-node |             | http://172.17.0.2:30926 |
+|-----------|------------|-------------|-------------------------|
+🎉  Opening service default/hello-node in default browser...
+"\\wsl$\Ubuntu\home\ben"
+CMD.EXE wurde mit dem oben angegebenen Pfad als aktuellem Verzeichnis gestartet.
+UNC-Pfade werden nicht unterstützt.
+Stattdessen wird das Windows-Verzeichnis als aktuelles Verzeichnis gesetzt.
+```
+
+Removed Minikube proxy and installed it within the WSL Distro using https://kubernetes.io/de/docs/tasks/tools/install-minikube/
+
+Minikube is the only thing which really heals itself when errors occur.
+
+```
+ ben@ben-desktop  ~  minikube start
+😄  minikube v1.8.2 on Ubuntu 18.04
+✨  Automatically selected the docker driver
+💾  Downloading preloaded images tarball for k8s v1.17.3 ...
+    > preloaded-images-k8s-v1-v1.17.3-docker-overlay2.tar.lz4: 499.26 MiB / 499
+🔥  Creating Kubernetes in docker container with (CPUs=2) (4 available), Memory=4700MB (19124MB available) ...
+🐳  Preparing Kubernetes v1.17.3 on Docker 19.03.2 ...
+    ▪ kubeadm.pod-network-cidr=10.244.0.0/16
+🚀  Launching Kubernetes ...
+
+💣  Error starting cluster: running cmd: /bin/bash -c "sudo env PATH=/var/lib/minikube/binaries/v1.17.3:$PATH kubeadm init phase certs all --config 
+/var/tmp/minikube/kubeadm.yaml": /bin/bash -c "sudo env PATH=/var/lib/minikube/binaries/v1.17.3:$PATH kubeadm init phase certs all --config /var/tmp/minikube/kubeadm.yaml": exit status 1
+stdout:
+[certs] Using certificateDir folder "/var/lib/minikube/certs"
+[certs] Using existing ca certificate authority[certs] Using existing apiserver certificate and key on disk
+
+stderr:
+W0322 11:26:27.055133    1180 validation.go:28] Cannot validate kube-proxy config - no validator is available
+W0322 11:26:27.055179    1180 validation.go:28] Cannot validate kubelet config - no validator is available
+error execution phase certs/apiserver-kubelet-client: [certs] certificate apiserver-kubelet-client not signed by CA certificate ca: crypto/rsa: verification error
+To see the stack trace of this error execute with --v=5 or higher
+
+😿  minikube is exiting due to an error. If the above message is not useful, open an issue:
+👉  https://github.com/kubernetes/minikube/issues/new/choose
+ ✘ ben@ben-desktop  ~  minikube delete
+❗  Unable to get the status of the minikube cluster.
+🔥  Removing /home/ben/.minikube/machines/minikube ...
+💀  Removed all traces of the "minikube" cluster.
+ ben@ben-desktop  ~  minikube start
+😄  minikube v1.8.2 on Ubuntu 18.04
+✨  Automatically selected the docker driver
+🔥  Creating Kubernetes in docker container with (CPUs=2) (4 available), Memory=4700MB (19124MB available) ...
+🐳  Preparing Kubernetes v1.17.3 on Docker 19.03.2 ...
+    ▪ kubeadm.pod-network-cidr=10.244.0.0/16
+🚀  Launching Kubernetes ...
+🌟  Enabling addons: default-storageclass, storage-provisioner
+⌛  Waiting for cluster to come online ...
+🏄  Done! kubectl is now configured to use "minikube"
+```
+
+Trying to expose a service works but the service cannot be accessed (timeout)
+
+```
+ ben@ben-desktop  ~  minikube service hello-node
+|-----------|------------|-------------|-------------------------|
+| NAMESPACE |    NAME    | TARGET PORT |           URL           |
+|-----------|------------|-------------|-------------------------|
+| default   | hello-node |             | http://172.17.0.2:32663 |
+|-----------|------------|-------------|-------------------------|
+🎉  Opening service default/hello-node in default browser...      
+
+💣  open url failed: http://172.17.0.2:32663: exec: "xdg-open": executable file not found in $PATH
+
+😿  minikube is exiting due to an error. If the above message is not useful, open an issue:
+👉  https://github.com/kubernetes/minikube/issues/new/choose
+ ✘ ben@ben-desktop  ~  curl http://172.17.0.2:32663/ -v
+*   Trying 172.17.0.2...
+* TCP_NODELAY set       
+* connect to 172.17.0.2 port 32663 failed: Connection timed out
+* Failed to connect to 172.17.0.2 port 32663: Connection timed out
+* Closing connection 0
+curl: (7) Failed to connect to 172.17.0.2 port 32663: Connection timed out
+ ✘ ben@ben-desktop  ~ 
+```
+
+Seemingly without minikube tunnel one cannot expose a deployment.
+Tunnel seems not to be build up correctly means i cannot finish the tutorial
+```
+Status:
+        machine: minikube
+        pid: 6483
+        route: 10.96.0.0/12 -> 172.17.0.2
+        minikube: Running
+        services: []
+    errors:
+                minikube: no errors
+                router: error adding Route: Error: Nexthop has invalid gateway.
+, 2
+                loadbalancer emulator: no errors
+```
+Even though there are some nice things to do e.g. set up deployments via kubectl and see how they are applied on our minikube cluster
