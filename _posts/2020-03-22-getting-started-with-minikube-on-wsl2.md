@@ -5,7 +5,7 @@ date: 2020-03-22 09:46 +0100
 ---
 I wanted to get started with Kubernets and the underlying concepts on a free sunday morning.
 This was my starting point
-* Windows 10 with WSL 2 enabled
+* Windows 10 with WSL 2 enabled 
 * Docker Desktop installed on Windows and exposed via 2375 without TSL
 
 I tried to apply the guide from https://medium.com/@joaoh82/setting-up-kubernetes-on-wsl-to-work-with-minikube-on-windows-10-90dac3c72fa1
