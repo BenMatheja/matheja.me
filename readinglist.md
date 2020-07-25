@@ -16,11 +16,11 @@ permalink: /readinglist/
 
 # In Progress
 * [Simon Sinek - Start with Why](https://amzn.to/2TNdvpZ) 
-* [Anselm Grün - Menschen Führen - Leben Wecken](https://amzn.to/39OcKCw)
 * [Daniel Kahnemann - Thinking, Fast and Slow](https://amzn.to/3cUaI61)
 * [Jurgen Appelo - Management 3.0](https://amzn.to/39S4rFI)
 
 # Completed in 2020
+* [Anselm Grün - Menschen Führen - Leben Wecken](https://amzn.to/39OcKCw)
 * [Peter Thiel with Blake Masters - Zero to one](https://amzn.to/2QhVwG6)
 * [L. David Marquet - Turn the Ship Around!](https://amzn.to/2QezLH7)
 

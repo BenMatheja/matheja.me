@@ -23,12 +23,16 @@ url: "https://matheja.me" # the base hostname & protocol for your site, e.g. htt
 twitter_username: benmatheja
 github_username:  BenMatheja
 linkedin_username: benmatheja
-
+google_analytics: UA-90631871-7
+show_excerpts: true
+excerpt_separator: <!--more-->
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

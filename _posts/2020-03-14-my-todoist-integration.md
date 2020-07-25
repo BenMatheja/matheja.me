@@ -3,10 +3,9 @@ layout: post
 title: Showcase - Build your own Todoist Integration
 date: 2020-03-14 09:52 +0100
 ---
-## Why
 When I started working at my current employer, I noticed an unconvenience every day.
-
-Keep track when arrived at and calculate when I shall leave the office latest possible to not get into trouble for beeing present too long. The "trouble" actually protects employees, which is quite an asset in Germany. 
+Keeping track of the time of arrival and calculate when I should leave the office latest possible to not get into trouble for beeing present too long. This "trouble" actually protects employees, which is quite an asset in Germany. 
+<!--more-->
 
 But reminding yourself on such stuff seems like unnecessary load for your brain. In the "Getting Things Done" methodology, you should try to put anything that you "have to take care of" into a trusted system.
 So in theory, your brain gets clear on the task and you will not feel overburden by the amount of open things to do.
