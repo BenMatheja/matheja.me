@@ -1,0 +1,158 @@
+# Status: 0 wishlist, Status: 1 reading, Status: 2 completed,  Status: 3 on hold
+# target: year of (targetted or actual) completion 
+
+- title: "Start with Why"
+  author: "Simon Sinek"
+  link: https://amzn.to/2TNdvpZ
+  status: 1
+  target: 2020
+
+- title: "Product Roadmaps Relaunched: A Practical Guide to Prioritizing Opportunities, Aligning Teams, and Delivering Value to Customers and Stakeholders"
+  author: "C. Todd Lombardo, Bruce McCarthy and Evan Ryan"
+  link: https://amzn.to/3iNTadI
+  status: 1
+  target: 2020
+
+- title: "Der 2-Stunden-Chef: Mehr Zeit und Erfolg mit dem Autonomie-Prinzip"
+  author: "Insa Klasing"
+  link: https://amzn.to/39Ln3Hz
+  status: 0
+  target: 2020
+
+- title: "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers"
+  author: "Ben Horowitz"
+  link: https://amzn.to/2Wbc0Dv
+  status: 0
+  target: 2020
+
+- title: "Startup, Scaleup, Screwup: 42 Tools to Accelerate Lean and Agile Business Growth"
+  author: "Jurgen Appelo"
+  link: https://amzn.to/2vjSoC8
+  status: 0
+  target: 2020
+
+- title: "Hyperfocus: How to Work Less to Achieve More"
+  author: "Chris Bailey"
+  link: https://amzn.to/33i9zjY
+  status: 0
+  target: 2020
+
+- title: "Nur wer sichtbar ist, findet auch statt"
+  author: "Tijen Onaran"
+  link: https://amzn.to/2Q4Kljg
+  status: 0
+  target: 2020
+
+- title: "The Mythical Man-Month"
+  author: "Frederick P. Brooks"
+  link: https://amzn.to/39Q4dil
+  status: 3
+  target: 2020
+
+- title: "The Sleepwalkers: How Europe Went to War in 1914"
+  author: "Christopher Clark"
+  link: https://amzn.to/2vjSsSo
+  status: 3
+  target: 2020
+
+- title: "Thinking, Fast and Slow"
+  author: "Daniel Kahnemann"
+  link: https://amzn.to/3cUaI61
+  status: 3
+  target: 2020
+
+- title: "Management 3.0"
+  author: "Jurgen Appelo"
+  link: https://amzn.to/39S4rFI
+  status: 3
+  target: 2020
+
+- title: "Menschen Führen - Leben Wecken"
+  author: "Anselm Grün"
+  link: https://amzn.to/39OcKCw
+  status: 2
+  target: 2020
+
+- title: "Zero to one"
+  author: "Peter Thiel with Blake Masters"
+  link: https://amzn.to/2QhVwG6
+  status: 2
+  target: 2020
+
+- title: "Die Verwandlung"
+  author: "Franz Kafka"
+  link: https://amzn.to/2CJxHDw
+  status: 2
+  target: 2020
+
+- title: "Turn the Ship Around!"
+  author: "L. David Marquet"
+  link: https://amzn.to/2QezLH7
+  status: 2
+  target: 2020
+
+- title: "The Martian"
+  author: "Andy Weir"
+  link: https://amzn.to/322Oeeg
+  status: 2
+  target: 2019
+
+- title: "Ich krieg Dich!"
+  author: "Martin Leo"
+  link: https://amzn.to/2DXkuaU
+  status: 2
+  target: 2019
+
+- title: "Spy the Lie"
+  author: "Philip Houston"
+  link: https://amzn.to/2TPxuEs
+  status: 2
+  target: 2019
+
+- title: "Ready Player One"
+  author: "Ernest Cline"
+  link: https://amzn.to/2WesECi
+  status: 2
+  target: 2019
+
+- title: How To Win Friends and Influence People
+  author: Dale Carnegie
+  link: https://amzn.to/2U7JvDY
+  status: 2
+  target: 2019
+
+- title: Getting Things Done
+  author: David Allen
+  link: https://amzn.to/39Qlw2T
+  status: 2
+  target: 2019
+
+- title: The Deadline
+  author: Tom DeMarco
+  link: https://amzn.to/2E9DDGz
+  status: 0
+  target: 2020
+
+- title: "Discover to Deliver: Agile Product Planning and Analysis"
+  author: Mary Gorman and Ellen Gottesdiener
+  link: https://amzn.to/3hdM3ed
+  status: 0
+  target: 2021
+
+- title: "Crossing the Chasm"
+  author: Geoffrey A. Moore
+  link: https://amzn.to/327XT3c
+  status: 0
+  target: 2021
+
+- title: "Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations"
+  author: Nicole Forsgren, Jez Humble and Gene Kim
+  link: https://amzn.to/3gctHsS
+  status: 0
+  target: 2021
+
+- title: "Extraordinary Popular Delusions and The Madness of Crowds"
+  author: Charles MacKay 
+  link: https://amzn.to/2EkEAf2
+  status: 0
+  target: 2021
