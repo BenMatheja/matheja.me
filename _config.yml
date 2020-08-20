@@ -1,31 +1,56 @@
 # Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Ben Matheja
 email: ben@matheja.me
+author:
+  name: Ben Matheja
+  email: ben@matheja.me
+minima:
+  social_links:
+    twitter: benmatheja
+    github:  BenMatheja
+    linkedin: benmatheja
 description: >- # this means to ignore newlines until "baseurl:"
   Delivering digital products @porsche | applying agile methods 
   | fascinated by autonomous leadership principles
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://matheja.me" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: benmatheja
-github_username:  BenMatheja
-linkedin_username: benmatheja
-google_analytics: UA-90631871-7
+
 show_excerpts: true
 excerpt_separator: <!--more-->
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://matheja.me" # the base hostname & protocol for your site, e.g. http://example.com
+  # generate social links in footer
+google_analytics: UA-90631871-7
+
+# Resume settings
+resume_avatar:                  "true"
+resume_title:                   "Product Owner Digital Service"
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_address:         "Erichstraße 1, Stuttgart"
+
+resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+display_header_contact_info:    "false"
+
+resume_header_intro: |
+  <p> Ben is a proven Project Lead within the automotive domain, working as Product Owner 
+  blending Agile Methods, Product Management techniques and strong technical expertise to realize products with impact</p>
+
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        false
+resume_section_skills:          false
+resume_section_recognition:     false
+resume_section_links:           false
+resume_section_associations:    false
+resume_section_interests:       false
+
 # Build settings
 markdown: kramdown
 theme: minima
@@ -33,7 +58,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

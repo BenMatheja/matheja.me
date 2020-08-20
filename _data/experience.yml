@@ -1,0 +1,48 @@
+
+- company: Dr. Ing. h.c. F. Porsche AG
+  position: "Product Owner: Digital Service"
+  duration:   June, 2019  &mdash; Present
+  summary: |
+    In the Mid of 2019 I was given the opportunity to lead the initiative building an entirely new product, offering diagnostic capabilities in workshops for vehicles worldwide
+    <ul class="resume-item-list">
+    <li>Applying Scrum in practice and a variety of Product Management techniques (Lean Roadmap, Vision boards) to lead a team of > 10 Colleagues</li>
+    <li>Applying cloud-based technologies (AWS, CloudFoundry, MongoDB Atlas) as one of the early adopters within the organization </li>
+    <li>Being responsible for budget planning, cost analysis, offer evaluation and overall product lifecycle management </li>
+    </ul> 
+    
+- company: Dr. Ing. h.c. F. Porsche AG
+  position: "IT Project Lead: IT Aftersales"
+  duration:   Nov, 2016  &mdash; June, 2019
+  summary: |
+   I joined Porsche in Nov 2016 to grow on the responsibility to realize IT-Projects in close collaboration with business partners and consulting agencies.
+   Within my time I was engaged in:
+   <ul class="resume-item-list">
+   <li>Leading the initiave to migrate a business-critical worldwide-used application with decentralized local deployments to a centralized backend solution (Java, Spring, Angular) using Scrum within a team of > 10 Colleagues</li>
+   <li>Leading the initiative to realize a digital service offering breakdown assistance within the Aftersales domain</li>
+   <li>Being responsible for budget planning, cost analysis, offer evaluation and overall project planning
+   </ul> 
+
+- company: Dr. Ing. h.c. F. Porsche AG
+  position: "Master's degree candidate: IT Aftersales"
+  duration:   May, 2016  &mdash; Oct, 2016
+  summary: Conceptualized and evaluated an IT architecture of a Digital Service System for Battery Electric Vehicles
+
+- company: Zweitag GmbH
+  position: "Junior Software Engineer: Infrastructure"
+  duration:   Apr, 2015  &mdash; Apr, 2016
+  summary: Led an initiative to replace the company-wide telephone system, performed market evaluation and realized proof of concepts.
+
+- company: Dr. Ing. h.c. F. Porsche AG
+  position: "Intern: IT Program Management for New Vehicles"
+  duration:   Sep, 2014  &mdash; Mar, 2015
+  summary: Assisted the Program Manager in securing production start-up with respect to relevant IT systems for producing the Cayenne in Osnabrueck.
+
+- company: Zweitag GmbH
+  position: "Working Student: Infrastructure"
+  duration:   May, 2014  &mdash; Sep, 2014
+  summary: Applied Infrastructure as code (IaC) to expand and maintain Zweitag's internal infrastructure. 
+
+- company: Verizon Enterprise Solutions
+  position: "Intern: Network Planning - EMEA, Transmission & Documentation"
+  duration:   May, 2013  &mdash; Nov, 2013
+  summary: Built a BI solution (PHP, Perl, jQuery) to monitor and analyze usage patterns on backbone network elements in Europe, Middle East and Africa (SDH/Ethernet per TL1 - M2M)
