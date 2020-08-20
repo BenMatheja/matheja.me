@@ -3,7 +3,8 @@ layout: page
 title: Reading List
 permalink: /readinglist/
 ---
-# In Progress ▶️
+Below you'll find books i'm currently reading. If you have any recommendation which one(s) to include, please let me know!
+## In Progress ▶️
 <ul>
 {% for book in site.data.books %}
     {% if book.status == 1 %}
@@ -13,7 +14,7 @@ permalink: /readinglist/
 {% endfor %}
 </ul>
 
-# On Hold ⏸️
+## On Hold ⏸️
 <ul>
 {% for book in site.data.books %}
     {% if book.status == 3 %}
@@ -23,7 +24,7 @@ permalink: /readinglist/
 {% endfor %}
 </ul>
 
-# Wishlist 📋
+## Wishlist 📋
 <ul>
 {% for book in site.data.books %}
     {% if book.status == 0 %}
@@ -33,8 +34,7 @@ permalink: /readinglist/
 {% endfor %}
 </ul>
 
-# Completed ✅
-#### 2020
+## Completed ✅ 2020
 <ul>
 {% for book in site.data.books %}
     {% if book.status == 2 and book.target == 2020 %}
@@ -44,7 +44,7 @@ permalink: /readinglist/
 {% endfor %}
 </ul>
 
-#### 2019
+## Completed ✅ 2019
 <ul>
 {% for book in site.data.books %}
     {% if book.status == 2 and book.target == 2019 %}
