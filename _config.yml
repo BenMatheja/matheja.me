@@ -12,9 +12,9 @@ minima:
 header_pages:
   - about.md
   - readinglist.md
-description: >- # this means to ignore newlines until "baseurl:"
-  Delivering digital products @porsche | applying agile methods 
-  | fascinated by autonomous leadership principles
+description: | # this means to ignore newlines until "baseurl:"
+  Product Owner @porsche 
+  | All things Cloud | Product Management | Agile Methods | posts are my own opinion
 
 show_excerpts: true
 excerpt_separator: <!--more-->
