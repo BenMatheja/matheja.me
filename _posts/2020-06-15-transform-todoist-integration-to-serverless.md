@@ -2,6 +2,7 @@
 layout: post
 title: Journey to Serverless - Migrated my Todoist Integration to Lambda
 date: 2020-06-15 10:00 +0100
+tags: aws lambda todoist python development
 ---
 I migrated my [Todoist Webhook Integration](https://github.com/BenMatheja/todoist-serverless-lambda) from a self-hosted version towards [AWS Lambda](https://aws.amazon.com/lambda/).
 

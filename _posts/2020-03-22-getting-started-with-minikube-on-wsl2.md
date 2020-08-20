@@ -2,6 +2,7 @@
 layout: post
 title: Getting Started with Minikube on WSL2
 date: 2020-04-08 09:46 +0100
+post: development kubernetes wsl
 ---
 One nice Sunday morning, I wanted to get started with Kubernetes to learn the underlying concepts. I wanted to run it on my local machine to play a bit around similar to what i'm already doing with docker-compose.
 <!--more-->
