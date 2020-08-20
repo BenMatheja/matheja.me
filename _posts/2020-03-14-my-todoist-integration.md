@@ -2,6 +2,7 @@
 layout: post
 title: Showcase - Build your own Todoist Integration
 date: 2020-03-14 09:52 +0100
+tags: todoist productivity python development
 ---
 When I started working at my current employer, I noticed an unconvenience every day.
 Keeping track of the time of arrival and calculate when I should leave the office latest possible to not get into trouble for beeing present too long. This "trouble" actually protects employees, which is quite an asset in Germany. 

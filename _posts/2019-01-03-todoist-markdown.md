@@ -3,7 +3,7 @@ layout: post
 title: "How I'm using Todoist"
 author: "Ben Matheja"
 categories: journal
-tags: [productivity, todoist]
+tags: productivity todoist gtd
 ---
 My journey with [Todoist](https://todoist.com) began in 2014 during my placement at [Zweitag](https://zweitag.de). 
 During a meeting with my former manager Julian, I did a short glance on his screen spotting the infamous red icon. Knowing that Julian was really passionate on efficient working approaches I had to do research of the unknown app.

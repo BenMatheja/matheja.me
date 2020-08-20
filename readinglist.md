@@ -2,6 +2,7 @@
 layout: page
 title: Reading List
 permalink: /readinglist/
+tags: books
 ---
 Below you'll find books i'm currently reading. If you have any recommendation which one(s) to include, please let me know!
 ## In Progress ▶️

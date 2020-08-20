@@ -2,6 +2,7 @@
 layout: post
 title: Remote Work - Challenges ahead
 date: 2020-03-20 12:40 +0100
+tags: newwork remote asynchronous focus
 ---
 Due to the COVID-19 spread many companies have to transform their working reality towards a fully remote approach.
 Wherever possible, companies try to remain their operations while protecting their workforce.
