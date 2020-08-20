@@ -7,7 +7,6 @@ tags: aws lambda todoist python development
 I migrated my [Todoist Webhook Integration](https://github.com/BenMatheja/todoist-serverless-lambda) from a self-hosted version towards [AWS Lambda](https://aws.amazon.com/lambda/).
 
 Here is why!
-
 <!--more-->
 ## Why
 My old approach had a lot of shortcomings.

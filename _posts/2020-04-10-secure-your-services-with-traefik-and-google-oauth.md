@@ -4,11 +4,10 @@ title: Secure your Services with Traefik and Google oAuth
 date: 2020-04-10 11:19 +0200
 posts: development traefik container docker
 ---
-Hobby projects tend to grow.
+Hobby projects tend to grow, so is the need to have proper authentification in place.
 
-As things grew bigger, the need to have proper authentification in place constantly rises.
-
-With the use of Containers and Orchestration Tools such as `docker-compose` you can bring up an entire ELK stack within seconds. Still the setup will feature non-protected Kibana installation. This argument holds for Grafana and other Web-applications as well. Luckily there is a solution for Traefik. I want to show some of the key parts to get it working.
+With the use of Containers and Orchestration Tools such as `docker-compose` you can bring up entire ELK stacks within seconds. 
+Still the setup will feature non-protected installations. Luckily there is a solution for Traefik my edge router of choice. I want to show some of the key parts to get it working.
 <!--more-->
 
 ## Setup
