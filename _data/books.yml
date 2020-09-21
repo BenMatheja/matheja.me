@@ -174,3 +174,15 @@
   link: https://amzn.to/3hefCeZ
   status: 2
   target: 2020
+
+- title: "Designing Event Driven Systems"
+  author: Ben Stopford
+  link: http://www.benstopford.com/2018/04/27/book-designing-event-driven-systems/
+  status: 1
+  target: 2020
+
+- title: "Mastering Kubernetes: Large scale container deployment and management"
+  author: Gigi Sayfan
+  link: https://www.amazon.de/dp/B01MXVUXDY/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+  status: 0
+  target: 2020
