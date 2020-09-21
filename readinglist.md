@@ -26,6 +26,7 @@ Below you'll find books i'm currently reading. If you have any recommendation wh
 </ul>
 
 ## Wishlist 📋
+My wishlist features {{ site.data.books | where: "status",0 | size }} books so far.
 <ul>
 {% for book in site.data.books %}
     {% if book.status == 0 %}
@@ -36,6 +37,7 @@ Below you'll find books i'm currently reading. If you have any recommendation wh
 </ul>
 
 ## Completed ✅ 2020
+In 2020 I completed {{ site.data.books | where: "status",2 | where: "target",2020 | size }} books so far.
 <ul>
 {% for book in site.data.books %}
     {% if book.status == 2 and book.target == 2020 %}
@@ -46,6 +48,7 @@ Below you'll find books i'm currently reading. If you have any recommendation wh
 </ul>
 
 ## Completed ✅ 2019
+In 2019 I completed {{ site.data.books | where: "status",2 | where: "target",2019 | size }} books.
 <ul>
 {% for book in site.data.books %}
     {% if book.status == 2 and book.target == 2019 %}
