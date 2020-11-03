@@ -178,7 +178,7 @@
 - title: "Designing Event Driven Systems"
   author: Ben Stopford
   link: http://www.benstopford.com/2018/04/27/book-designing-event-driven-systems/
-  status: 1
+  status: 2
   target: 2020
 
 - title: "Mastering Kubernetes: Large scale container deployment and management"
