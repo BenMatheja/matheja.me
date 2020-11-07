@@ -2,7 +2,7 @@
 layout: post
 title: Secure your Services with Traefik and Google oAuth
 date: 2020-04-10 11:19 +0200
-posts: development traefik container docker
+tags: development traefik container docker
 ---
 Hobby projects tend to grow, so is the need to have proper authentification in place.
 
