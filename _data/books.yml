@@ -186,3 +186,33 @@
   link: https://www.amazon.de/dp/B01MXVUXDY/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
   status: 0
   target: 2020
+
+- title: "Reinventing Organizations"
+  author: Frederic Laloux
+  link: https://www.amazon.de/dp/2960133501
+  status: 1
+  target: 2020
+
+- title: "Product Mastery: From Good To Great Product Ownership"
+  author: Geoff Watts
+  link: https://www.amazon.de/dp/1540562549
+  status: 1
+  target: 2020
+
+- title: "Sprache und Sein"
+  author: Kübra Gümüsay
+  link: https://www.amazon.de/dp/3446265953/
+  status: 0
+  target: 2021
+
+- title: "Unsere Welt neu denken: Eine Einladung"
+  author: Maja Göpel
+  link: https://www.amazon.de/dp/355020079X
+  status: 0
+  target: 2021
+
+- title: "Unfuck the Economy"
+  author: Waldemar Zeiler
+  link: https://www.amazon.de/dp/3442315956
+  status: 0
+  target: 2021
