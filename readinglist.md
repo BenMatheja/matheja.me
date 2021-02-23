@@ -36,6 +36,17 @@ My wishlist features {{ site.data.books | where: "status",0 | size }} books so f
 {% endfor %}
 </ul>
 
+## Completed ✅ 2021
+In 2021 I completed {{ site.data.books | where: "status",2 | where: "target",2021 | size }} books so far.
+<ul>
+{% for book in site.data.books %}
+    {% if book.status == 2 and book.target == 2021 %}
+     <li>
+        <a href="{{ book.link}}">{{ book.author }} - {{ book.title }} </a> </li>
+    {% endif %}
+{% endfor %}
+</ul>
+
 ## Completed ✅ 2020
 In 2020 I completed {{ site.data.books | where: "status",2 | where: "target",2020 | size }} books so far.
 <ul>
