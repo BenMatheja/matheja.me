@@ -48,7 +48,7 @@ In 2021 I completed {{ site.data.books | where: "status",2 | where: "target",202
 </ul>
 
 ## Completed ✅ 2020
-In 2020 I completed {{ site.data.books | where: "status",2 | where: "target",2020 | size }} books so far.
+In 2020 I completed {{ site.data.books | where: "status",2 | where: "target",2020 | size }} books.
 <ul>
 {% for book in site.data.books %}
     {% if book.status == 2 and book.target == 2020 %}
