@@ -16,8 +16,8 @@
 - title: "Der 2-Stunden-Chef: Mehr Zeit und Erfolg mit dem Autonomie-Prinzip"
   author: "Insa Klasing"
   link: https://amzn.to/39Ln3Hz
-  status: 0
-  target: 2020
+  status: 2
+  target: 2021
 
 - title: "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers"
   author: "Ben Horowitz"
@@ -232,7 +232,7 @@
 - title: "No Rules Rules: Netflix and the Culture of Reinvention"
   author: Reed Hastings
   link: https://www.amazon.de/dp/B082261K3F
-  status: 1
+  status: 2
   target: 2021
 
 - title: "New Work needs Inner Work: Ein Handbuch für Unternehmen auf dem Weg zur Selbstorganisation"
@@ -268,7 +268,7 @@
 - title: "Teamgeist - Wie man ein Meisterteam entwickelt"
   author: "Adi Hütter"
   link: https://www.amazon.de/dp/B07XSHSGTJ/
-  status: 0
+  status: 1
   target: 2021
 
 - title: "Give and Take: Why Helping Others Drives Our Success"
