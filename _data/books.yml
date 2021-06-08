@@ -142,7 +142,7 @@
 - title: "Crossing the Chasm"
   author: Geoffrey A. Moore
   link: https://amzn.to/327XT3c
-  status: 1
+  status: 3
   target: 2020
 
 - title: "Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations"
@@ -196,7 +196,7 @@
 - title: "Product Mastery: From Good To Great Product Ownership"
   author: Geoff Watts
   link: https://www.amazon.de/dp/1540562549
-  status: 1
+  status: 3
   target: 2020
 
 - title: "Sprache und Sein"
@@ -268,11 +268,17 @@
 - title: "Teamgeist - Wie man ein Meisterteam entwickelt"
   author: "Adi Hütter"
   link: https://www.amazon.de/dp/B07XSHSGTJ/
-  status: 1
+  status: 2
   target: 2021
 
 - title: "Give and Take: Why Helping Others Drives Our Success"
   author: Adam Grant
   link: https://www.amazon.de/dp/1780224729/
   status: 0
+  target: 2021
+
+- title: "It's now: Leben, führen, arbeiten – Wir kennen die Regeln, jetzt ändern wir sie"
+  author: Janina Kugel
+  link: https://www.amazon.de/dp/B08MCC1MH8/
+  status: 1
   target: 2021
