@@ -3,10 +3,10 @@
   position: "Product Owner: Digital Service"
   duration:   June, 2019  &mdash; Present
   summary: |
-    In the mid of 2019 I was given the opportunity to lead the initiative building an entirely new product, offering an integrated diagnostic soloution for customer vehicles worldwide
+    Mid of 2019 I was given the opportunity to lead the initiative building an entirely new digital product, offering an integrated diagnostic soloution for customer vehicles worldwide
     <ul class="resume-item-list">
-    <li>Applying Scrum in practice and a variety of Product Management techniques (Lean Roadmap, Vision boards) to lead an international team of > 12 Colleagues</li>
-    <li>Applying cloud-based technologies (AWS, CloudFoundry, Kubernetes, MongoDB Atlas) as one of the early adopters within the organization </li>
+    <li>Applying Scrum in scaled environments thereby using a variety of Product Management techniques (Lean Roadmap, Vision boards) to lead an international team of > 12 Colleagues</li>
+    <li>Applying cloud-based technologies (AWS, Cloudfoundry, Kubernetes, Terraform, MongoDB Atlas) as one of the early adopters within the organization </li>
     <li>Being responsible for budget planning, cost analysis, offer evaluation and overall product lifecycle management </li>
     </ul> 
     
@@ -25,7 +25,7 @@
 - company: Dr. Ing. h.c. F. Porsche AG
   position: "Master's degree candidate: IT Aftersales"
   duration:   May, 2016  &mdash; Oct, 2016
-  summary: Conceptualized and evaluated an IT architecture of a Digital Service System for Battery Electric Vehicles
+  summary: Conceptualized and evaluated an IT architecture of a Digital Service System for Battery Electric Vehicles (BEV)
 
 - company: Zweitag GmbH
   position: "Junior Software Engineer: Infrastructure"
@@ -35,12 +35,12 @@
 - company: Dr. Ing. h.c. F. Porsche AG
   position: "Intern: IT Program Management for New Vehicles"
   duration:   Sep, 2014  &mdash; Mar, 2015
-  summary: Assisted the Program Manager in securing production start-up with respect to relevant IT systems for producing the Cayenne in Osnabrueck.
+  summary: Assisted the Program Manager in securing production start-up with respect to relevant IT systems for producing the Cayenne Gen 2 in Osnabrueck.
 
 - company: Zweitag GmbH
   position: "Working Student: Infrastructure"
   duration:   May, 2014  &mdash; Sep, 2014
-  summary: Applied Infrastructure as code (IaC) to expand and maintain Zweitag's internal infrastructure. 
+  summary: Applied Infrastructure as code (IaC) using Chef and Puppet to expand and maintain Zweitag's internal infrastructure. 
 
 - company: Verizon Enterprise Solutions
   position: "Intern: Network Planning - EMEA, Transmission & Documentation"
