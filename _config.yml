@@ -39,9 +39,9 @@ resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334
 display_header_contact_info:    "false"
 
 resume_header_intro: |
-  <p> Ben is a proven Project Lead within the automotive domain, working as Product Owner 
-  blending Agile Methods, Product Management techniques and strong technical expertise to realize products with impact</p>
-  <p> I'm personally driven by close collaboration with my business colleagues to change the way we validate and perform vehicle updates </p>
+  <p> Ben is working as a Product Owner in the automotive domain 
+  blending agile methods, Product Management techniques and strong technical expertise to realize digital products with impact</p>
+  <p> I personally believe in teams as the pinnacle of innovation, in meaningful exchanges between skilled individuals and in the ability of responsible humans to facilitate decisions. </p>
 
 
 # Decide which sections to use
