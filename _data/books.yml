@@ -40,8 +40,8 @@
 - title: "Nur wer sichtbar ist, findet auch statt"
   author: "Tijen Onaran"
   link: https://amzn.to/2Q4Kljg
-  status: 0
-  target: 2020
+  status: 1
+  target: 2021
 
 - title: "The Mythical Man-Month"
   author: "Frederick P. Brooks"
@@ -274,7 +274,7 @@
 - title: "Give and Take: Why Helping Others Drives Our Success"
   author: Adam Grant
   link: https://www.amazon.de/dp/1780224729/
-  status: 1
+  status: 2
   target: 2021
 
 - title: "It's now: Leben, führen, arbeiten – Wir kennen die Regeln, jetzt ändern wir sie"
