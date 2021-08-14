@@ -196,8 +196,8 @@
 - title: "Product Mastery: From Good To Great Product Ownership"
   author: Geoff Watts
   link: https://www.amazon.de/dp/1540562549
-  status: 3
-  target: 2020
+  status: 1
+  target: 2021
 
 - title: "Sprache und Sein"
   author: Kübra Gümüsay
@@ -281,4 +281,34 @@
   author: Janina Kugel
   link: https://www.amazon.de/dp/B08MCC1MH8/
   status: 2
+  target: 2021
+
+- title: "ReWork: Change the Way You Work Forever"
+  author: Jason Fried & David Heinemeir Hansson
+  link: https://www.amazon.de/dp/B003ELY7PG/
+  status: 1
+  target: 2021
+
+- title: "Deep Work: Rules for Focused Success in a Distracted World"
+  author: Cal Newport
+  link: https://www.amazon.de/dp/B013UWFM52/
+  status: 0
+  target: 2021
+
+- title: "Indistractable: How to Control Your Attention and Choose Your Life"
+  author: Nir Eyal
+  link: https://www.amazon.de/dp/B07QCC61Y3/
+  status: 0
+  target: 2021
+
+- title: "Hooked: How to Build Habit-Forming Products"
+  author: Nir Eyal
+  link: https://www.amazon.de/dp/B00NW01MKM/
+  status: 0
+  target: 2021
+
+- title: "It Doesn't Have to Be Crazy at Work"
+  author: Jason Fried & David Heinemeir Hansson
+  link: https://www.amazon.de/dp/B079WV79TK/
+  status: 0
   target: 2021
