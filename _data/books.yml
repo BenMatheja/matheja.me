@@ -40,7 +40,7 @@
 - title: "Nur wer sichtbar ist, findet auch statt"
   author: "Tijen Onaran"
   link: https://amzn.to/2Q4Kljg
-  status: 1
+  status: 3
   target: 2021
 
 - title: "The Mythical Man-Month"
@@ -64,7 +64,7 @@
 - title: "Management 3.0"
   author: "Jurgen Appelo"
   link: https://amzn.to/39S4rFI
-  status: 1
+  status: 2
   target: 2021
 
 - title: "Menschen Führen - Leben Wecken"
@@ -324,3 +324,57 @@
   link: https://www.amazon.de/dp/B01MQRQG22
   status: 0
   target: 2021
+
+- title: "Atomic Habits: Tiny Changes, Remarkable Results"
+  author: James Clear
+  link: https://www.amazon.de/dp/B01N5AX61W
+  status: 1
+  target: 2021
+
+- title: "7 Habits Of Highly Effective People"
+  author: Stephen R. Covey
+  link: https://amzn.to/3hefCeZ
+  status: 1
+  target: 2021
+
+- title: "Spanning Silos: The new CMO Imperative"
+  author: David Aaker
+  link: https://www.amazon.de/dp/B004OEIQ36
+  status: 0
+  target: 2022
+
+- title: "High Growth Handbook: Scaling Startups from 10 to 10000 People"
+  author: Elad Gil
+  link: https://www.amazon.de/dp/B07DRPGGQ7
+  status: 0
+  target: 2022
+
+- title: "The Big Five for Life"
+  author: John Strelecky
+  link: https://www.amazon.de/dp/B006MYOYQY
+  status: 0
+  target: 2022
+
+- title: "Im Grunde gut: Eine neue Geschichte der Menschheit"
+  author: Rutger Bregman
+  link: https://www.amazon.de/dp/B081SJS89D
+  status: 0
+  target: 2022
+
+- title: "HBR's 10 Must Reads on Managing Yourself (Vol. 2)"
+  author: Harvard Business Review
+  link: https://www.amazon.de/dp/B08CRYNHZX
+  status: 0
+  target: 2022
+
+- title: "HBRs 10 Must Reads on Strategy"
+  author: Harvard Business Review
+  link: https://www.amazon.de/dp/B004GEB938
+  status: 0
+  target: 2022
+
+- title: "Getting to Yes: Negotiating an agreement without giving in"
+  author: Roger Fisher, William Ury
+  link: https://www.amazon.de/dp/B008YUNDJS
+  status: 0
+  target: 2022
