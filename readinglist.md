@@ -45,7 +45,7 @@ Below you'll find books i'm currently reading. If you have any recommendation wh
 {% endfor %}
 </ul>
 
-## Wishlist 📋
+## 🌠 Wishlist
 
 My wishlist currently features {{ site.data.books | where: "status",0 | size }} books.
 
