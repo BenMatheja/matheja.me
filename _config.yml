@@ -33,9 +33,9 @@ resume_title:                   "Product Owner Digital Service"
 resume_looking_for_work:        "yes"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_address:         "Erichstraße 1, Stuttgart"
+resume_contact_address:         "Mittbachweg 16, Wächtersbach"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     ""
 display_header_contact_info:    "false"
 
 resume_header_intro: |
@@ -62,6 +62,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jemoji
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
