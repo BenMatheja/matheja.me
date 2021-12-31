@@ -39,8 +39,8 @@
 - title: "Hyperfocus: How to Work Less to Achieve More"
   author: "Chris Bailey"
   link: https://amzn.to/33i9zjY
-  status: 0
-  target: 2020
+  status: 1
+  target: 2022
   tier: 1
 
 - title: "Nur wer sichtbar ist, findet auch statt"
@@ -382,7 +382,7 @@
 - title: "Atomic Habits: Tiny Changes, Remarkable Results"
   author: James Clear
   link: https://www.amazon.de/dp/B01N5AX61W
-  status: 1
+  status: 2
   target: 2021
   tier: 1
 
