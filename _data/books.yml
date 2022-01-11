@@ -497,3 +497,45 @@
   status: 0
   target: 2022
   tier: 1
+
+- title: "Leading Change"
+  author: John P. Kotter
+  link: https://www.amazon.de/dp/B00A07FPEO
+  status: 0
+  target: 2022
+  tier: 2
+
+- title: "The Loop Approach: How to Transform Your Organization from the Inside Out"
+  author: Sebastian Klein, Ben Hughes
+  link: https://www.amazon.de/dp/B07TJNKL67
+  status: 0
+  target: 2022
+  tier: 1
+
+- title: "Leadership and Self-Deception: Getting Out of the Box"
+  author: The Arbinger Institute
+  link: https://www.amazon.de/dp/1523097809
+  status: 0
+  target: 2022
+  tier: 1
+
+- title: "Think and Grow Rich"
+  author: Napoleon Hill
+  link: https://www.amazon.de/dp/1604591870
+  status: 0
+  target: 2022
+  tier: 1
+
+- title: "The Cold Start Problem: Using Network Effects to Scale Your Product"
+  author: Andrew Chen
+  link: https://www.amazon.de/dp/1847942776
+  status: 0
+  target: 2022
+  tier: 1
+
+- title: "On The Way To New Work: Wenn Arbeit zu etwas wird, was Menschen stärkt"
+  author: Swantje Allmers, Michael Trautmann, Christoph Magnussen
+  link: https://www.thalia.de/shop/home/artikeldetails/A1060475265
+  status: 0
+  target: 2022
+  tier: 1
