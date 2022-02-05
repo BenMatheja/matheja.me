@@ -39,7 +39,7 @@
 - title: "Hyperfocus: How to Work Less to Achieve More"
   author: "Chris Bailey"
   link: https://amzn.to/33i9zjY
-  status: 1
+  status: 2
   target: 2022
   tier: 1
 
@@ -165,7 +165,7 @@
 - title: "Crossing the Chasm"
   author: Geoffrey A. Moore
   link: https://amzn.to/327XT3c
-  status: 1
+  status: 3
   target: 2022
   tier: 1
 
@@ -242,9 +242,9 @@
 - title: "Unsere Welt neu denken: Eine Einladung"
   author: Maja Göpel
   link: https://www.amazon.de/dp/355020079X
-  status: 0
-  target: 2021
-  tier: 2
+  status: 1
+  target: 2022
+  tier: 1
 
 - title: "Unfuck the Economy"
   author: Waldemar Zeiler
@@ -375,8 +375,8 @@
 - title: "Utopia for Realists: And How We Can Get There"
   author: Rutger Bregman
   link: https://www.amazon.de/dp/B01MQRQG22
-  status: 0
-  target: 2021
+  status: 1
+  target: 2022
   tier: 1
 
 - title: "Atomic Habits: Tiny Changes, Remarkable Results"
@@ -424,7 +424,7 @@
 - title: "HBR's 10 Must Reads on Managing Yourself (Vol. 2)"
   author: Harvard Business Review
   link: https://www.amazon.de/dp/B08CRYNHZX
-  status: 0
+  status: 1
   target: 2022
   tier: 1
 
@@ -508,7 +508,7 @@
 - title: "The Loop Approach: How to Transform Your Organization from the Inside Out"
   author: Sebastian Klein, Ben Hughes
   link: https://www.amazon.de/dp/B07TJNKL67
-  status: 0
+  status: 1
   target: 2022
   tier: 1
 
@@ -522,7 +522,7 @@
 - title: "Think and Grow Rich"
   author: Napoleon Hill
   link: https://www.amazon.de/dp/1604591870
-  status: 0
+  status: 1
   target: 2022
   tier: 1
 
@@ -536,6 +536,6 @@
 - title: "On The Way To New Work: Wenn Arbeit zu etwas wird, was Menschen stärkt"
   author: Swantje Allmers, Michael Trautmann, Christoph Magnussen
   link: https://www.thalia.de/shop/home/artikeldetails/A1060475265
-  status: 0
+  status: 1
   target: 2022
   tier: 1
