@@ -1,0 +1,867 @@
+- author:
+  - Anselm Grün
+  completed_in: 2020
+  date updated: 2022-12-11 16:54
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Anselm-Gruen/Menschen-fuehren-Leben-wecken_lid_3564166.html
+  status: read
+  tier: 1
+  title: Menschen führen - Leben wecken
+  total: 126
+- author:
+  - Geoff Watts
+  completed_in: 2021
+  date updated: 2022-12-11 16:53
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Hillary-Scholl/Digital-Product-School-Mastery_lid_45624793.html
+  status: read
+  tier: 1
+  title: Product Mastery
+- author:
+  - Mai Thi Nguyen-Kim
+  completed_in: null
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Mai-Thi-Nguyen-Kim/Die-kleinste-gemeinsame-Wirklichkeit_lid_43923203.html
+  status: unread
+  target: 2023
+  tier: 3
+  title: Die kleinste gemeinsame Wirklichkeit
+  total: 368
+- author:
+  - Elad Gil
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Elad-Gil/High-Growth-Handbook-Scaling-Startups-from-10-to-10-000-People_lid_47946413.html
+  status: unread
+  tier: 2
+  title: High Growth Handbook
+- author:
+  - Ben Horowitz
+  date updated: 2022-12-11 16:52
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Ben-Horowitz/The-Hard-Thing-about-Hard-Things_lid_21010665.html
+  status: unread
+  tier: 1
+  title: The Hard Thing About Hard Things
+  total: 304
+- author:
+  - Chris Bailey
+  completed_in: 2022
+  date updated: 2022-11-05 10:06
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Chris-Bailey/Hyperfocus_lid_42178207.html
+  status: read
+  tier: 1
+  title: Hyperfocus
+  total: 272
+- author:
+  - Michael D. Watkins
+  date updated: 2022-12-11 16:52
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Michael-D-Watkins/The-First-90-Days-Updated-and-Expanded_lid_26950178.html
+  status: unread
+  tier: 1
+  title: The First 90 Days, Updated and Expanded
+  total: 304
+- author:
+  - Tom DeMarco
+  date updated: 2022-12-11 16:52
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Kiki-Swinson/The-Deadline_lid_42252858.html
+  status: unread
+  tier: 2
+  title: The Deadline
+  total: 310
+- author:
+  - Ellen Gottesdiener
+  inventory: open
+  link: https://www.genialokal.de/Produkt/John-Bunyan/The-Pilgrims-Progress-From-This-World-To-That-Which-Is-To-Come-Deliverd-Under-The-Similitude-Of-A-Dream-Wherein-Is-Discoverd-The-Manner-Of-His-Se_lid_47824064.html
+  status: unread
+  tier: 1
+  title: Discover to Deliver
+- author:
+  - Melissa Perri
+  inventory: ordered
+  link: https://www.genialokal.de/Produkt/Melissa-Perri/Escaping-the-Build-Trap_lid_32010303.html
+  status: unread
+  tier: 1
+  title: Escaping the Build Trap
+  total: 199
+- author:
+  - Maja Göpel
+  completed_in: 2022
+  date updated: 2022-12-11 16:51
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Maja-Goepel/Unsere-Welt-neu-denken_lid_43998478.html
+  status: read
+  tier: 1
+  title: Unsere Welt neu denken
+  total: 160
+- author:
+  - Tijen Onaran
+  - Christian Schön
+  date updated: 2022-12-11 16:53
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Tijen-Onaran/Nur-wer-sichtbar-ist-findet-auch-statt_lid_41941530.html
+  status: paused
+  tier: 1
+  title: Nur wer sichtbar ist, findet auch statt
+  total: 208
+- author:
+  - Frederic Laloux
+  completed_in: 2021
+  date updated: 2022-12-11 16:53
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Frederic-Laloux/Reinventing-Organizations-visuell_lid_29422966.html
+  status: read
+  tier: 1
+  title: Reinventing Organizations
+  total: 360
+- author:
+  - Adam Grant
+  completed_in: 2021
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Adam-Grant/Give-and-Take_lid_21356287.html
+  status: read
+  tier: 1
+  title: Give and Take
+  total: 288
+- author:
+  - Kübra Gümüsay
+  date updated: 2022-12-11 16:53
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Kuebra-Guemuesay/Sprache-und-Sein_lid_44572696.html
+  status: unread
+  target: 2023
+  tier: 2
+  title: Sprache und Sein
+  total: 176
+- author:
+  - David A. Aaker
+  date updated: 2022-12-11 16:53
+  inventory: open
+  link: https://www.genialokal.de/Produkt/David-Aaker/Spanning-Silos_lid_7609162.html
+  status: unread
+  tier: 2
+  title: Spanning Silos
+  total: 237
+- author:
+  - Reed Hastings
+  - Erin Meyer
+  completed_in: 2021
+  date updated: 2022-12-11 16:53
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Reed-Hastings-Erin-Meyer/No-Rules-Rules_lid_39076628.html
+  status: read
+  tier: 1
+  title: No Rules Rules
+  total: 320
+- author:
+  - Cal Newport
+  date updated: 2022-12-11 16:53
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Mentors-Library/Resumo-Estendido-Tao-Bom-Que-Nao-Poderao-Ignora-Lo-So-Good-They-Cant-Ignore-You_lid_42724570.html
+  status: unread
+  tier: 3
+  title: So Good They Can't Ignore You
+  total: 304
+- author:
+  - Jason Fried
+  - David Heinemeier Hansson
+  date updated: 2022-12-11 16:54
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Jason-Fried-David-Heinemeier-Hansson/It-Doesnt-Have-to-Be-Crazy-at-Work_lid_38249630.html
+  status: unread
+  tier: 2
+  title: It Doesn't Have to Be Crazy at Work
+  total: 240
+- author:
+  - Maja Göpel
+  date updated: 2022-12-11 16:52
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Maja-Goepel/The-Great-Mindshift_lid_30042966.html
+  status: unread
+  tier: 1
+  title: The Great Mindshift
+  total: 184
+- author:
+  - Brigitte Witzer
+  completed_in: null
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Brigitte-Witzer/Die-Fleissluege_lid_27674003.html
+  status: unread
+  target: 2023
+  tier: 3
+  title: Die Fleißlüge
+  total: 288
+- author:
+  - Stephen R. Covey
+  completed_in: 2020
+  date updated: 2022-12-11 16:52
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Stephen-R-Covey-Sean-Covey-Jim-Collins/The-7-Habits-of-Highly-Effective-People-30th-Anniversary-Edition_lid_42256682.html
+  status: read
+  tier: 0
+  title: The 7 Habits of Highly Effective People
+  total: 393
+- author:
+  - C. Todd Lombardo
+  - Bruce McCarthy
+  - Evan Ryan
+  - Michael Connors
+  completed_in: 2021
+  date updated: 2022-12-11 16:53
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/C-Todd-Lombardo/Product-Roadmaps-Relaunched_lid_34645236.html
+  status: read
+  tier: 1
+  title: Product Roadmaps Relaunched
+  total: 267
+- author:
+  - Nir Eyal
+  date updated: 2022-12-11 16:54
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Nir-Eyal/Indistractable_lid_41657053.html
+  status: unread
+  tier: 2
+  title: Indistractable
+  total: 336
+- author:
+  - Leo Martin
+  completed_in: 2019
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Leo-Martin/Ich-krieg-dich_lid_36759474.html
+  status: read
+  tier: 3
+  title: Ich krieg dich!
+  total: 256
+- author:
+  - Andy Weir
+  completed_in: 2019
+  date updated: 2022-12-11 16:52
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Ray-Bradbury/The-Martian-Chronicles_lid_18125641.html
+  status: read
+  tier: 1
+  title: The Martian
+  total: 482
+- author:
+  - John P. Kotter
+  date updated: 2022-12-11 16:54
+  inventory: open
+  link: https://www.genialokal.de/Produkt/John-P-Kotter/Leading-Change_lid_11317062.html
+  status: unread
+  tier: 1
+  title: Leading Change
+  total: 210
+- author:
+  - Cal Newport
+  inventory: ordered
+  link: https://www.genialokal.de/Produkt/Cal-Newport/Deep-Work_lid_28627866.html
+  status: unread
+  tier: 1
+  title: Deep Work
+  total: 304
+- author:
+  - Marty Cagan
+  date updated: 2022-12-11 16:54
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Inspired-Inner-Genius/Anne-Frank-Childrens-Biography-Book-Kids-Books-Age-5-10-Historical-Women-in-the-Holocaust_lid_45755997.html
+  status: unread
+  tier: 1
+  title: INSPIRED
+  total: 375
+- author:
+  - Arbinger Institute
+  date updated: 2022-12-11 16:54
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Leadership-and-Self-Deception_lid_35266808.html
+  status: unread
+  tier: 1
+  title: Leadership and Self-Deception
+  total: 241
+- author:
+  - Hal Elrod
+  completed_in: null
+  date updated: 2022-12-11 16:52
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Hal-Elrod/The-Miracle-Morning_lid_33852516.html
+  status: unread
+  target: 2023
+  tier: 3
+  title: The Miracle Morning
+  total: 146
+- author:
+  - Erin Meyer
+  date updated: 2022-12-11 16:52
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Erin-Meyer/The-Culture-Map_lid_27041793.html
+  status: unread
+  tier: 2
+  title: The Culture Map
+  total: 202
+- author:
+  - Sheryl Sandberg
+  date updated: 2022-12-11 16:54
+  inventory: open
+  link: https://www.genialokal.de/Produkt/50Minuten-de/Lean-In-Zusammenfassung-Analyse-des-Bestsellers-von-Sheryl-Sandberg_lid_48432154.html
+  status: unread
+  tier: 2
+  title: Lean In
+  total: 240
+- author:
+  - Roger Fisher
+  - William Ury
+  - Bruce Patton
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Roger-Fisher-William-L-Ury-Bruce-Patton/Getting-to-Yes_lid_11399392.html
+  status: unread
+  tier: 2
+  title: Getting to Yes
+  total: 242
+- author:
+  - John P. Strelecky
+  date updated: 2022-12-11 16:52
+  inventory: open
+  link: https://www.genialokal.de/Produkt/John-Strelecky/The-Big-Five-for-Life_lid_7390154.html
+  status: unread
+  tier: 1
+  title: The Big Five for Life
+  total: 240
+- author:
+  - Therese Huston
+  date updated: 2022-12-11 16:54
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Mohamed-Amjahid/Lets-Talk-About-Sex-Habibi_lid_46639374.html
+  status: unread
+  tier: 2
+  title: Let's Talk
+  total: 305
+- author:
+  - Jörg Zeyringer
+  - Adi Hütter
+  completed_in: 2021
+  date updated: 2022-12-11 16:52
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Sonja-Kaiblinger/Die-Geisterkicker-Nie-mehr-ohne-Teamgeist_lid_46693260.html
+  status: read
+  tier: 1
+  title: Teamgeist
+  total: 253
+- author:
+  - Ryan Holiday
+  completed_in: null
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Ryan-Holiday/Growth-Hacker-Marketing_lid_25416983.html
+  status: unread
+  target: 2023
+  tier: 3
+  title: Growth Hacker Marketing
+  total: 146
+- author:
+  - Eric Ries
+  completed_in: 2019
+  date updated: 2022-12-11 16:52
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Eric-Ries/The-Lean-Startup_lid_32483450.html
+  status: read
+  tier: 1
+  title: The Lean Startup
+  total: 336
+- author:
+  - Michael Lewis
+  date updated: 2022-12-11 16:54
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Michael-Lewis/Liars-Poker-Rising-Through-the-Wreckage-on-Wall-Street_lid_25421906.html
+  status: unread
+  tier: 2
+  title: Liar's Poker
+  total: 256
+- author:
+  - Rutger Bregman
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Rutger-Bregman/Humankind_lid_43691212.html
+  status: unread
+  tier: 1
+  title: Humankind
+  total: 496
+- author:
+  - Darren Hardy
+  date updated: 2022-12-11 16:52
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Darren-Hardy-LLC/The-Compound-Effect_lid_47072216.html
+  status: unread
+  tier: 2
+  title: The Compound Effect
+  total: 136
+- author:
+  - Ernest Cline
+  completed_in: 2019
+  date updated: 2022-12-11 16:53
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Ernest-Cline/Ready-Player-One_lid_31566477.html
+  status: read
+  tier: 1
+  title: Ready Player One
+  total: 384
+- author:
+  - Amy Webb
+  date updated: 2022-12-11 16:52
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Amy-Webb/The-Big-Nine_lid_38684067.html
+  status: unread
+  tier: 1
+  title: The Big Nine
+  total: 336
+- author:
+  - L. David Marquet
+  completed_in: 2020
+  date updated: 2022-12-11 16:52
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/L-David-Marquet/Turn-the-Ship-Around_lid_28259488.html
+  status: read
+  tier: 1
+  title: Turn the Ship Around!
+  total: 272
+- author:
+  - Sarah Drasner
+  date updated: 2022-12-11 11:04
+  inventory: ordered
+  link: https://www.genialokal.de/Produkt/Sarah-Drasner/Engineering-Management-for-the-Rest-of-Us_lid_49130103.html
+  status: unread
+  tier: 1
+  title: Engineering Management for the Rest of Us
+  total: 0
+- author:
+  - Gigi Sayfan
+  completed_in: null
+  date updated: 2022-12-11 16:54
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Sayfan-Gigi-Sayfan/Mastering-Kubernetes_lid_44344961.html
+  status: unread
+  target: 2023
+  tier: 3
+  title: Mastering Kubernetes
+  total: 468
+- author:
+  - Alice Hasters
+  completed_in: 2021
+  date updated: 2022-12-11 16:51
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Alice-Hasters/Was-weisse-Menschen-nicht-ueber-Rassismus-hoeren-wollen-aber-wissen-sollten_lid_44528082.html
+  status: read
+  tier: 1
+  title: Was weiße Menschen nicht über Rassismus hören wollen aber wissen sollten
+  total: 208
+- author:
+  - Swantje Allmers
+  - Christoph Magnussen
+  - Michael Trautmann
+  completed_in: 2022
+  date updated: 2022-12-11 16:53
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Swantje-Allmers-Christoph-Magnussen-Michael-Trautmann/On-the-Way-to-New-Work_lid_44536900.html
+  status: read
+  tier: 1
+  title: ON THE WAY TO NEW WORK
+  total: 402
+- author:
+  - Jurgen Appelo
+  date updated: 2022-12-11 16:53
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Jurgen-Appelo/Startup-Scaleup-Screwup_lid_40392138.html
+  status: unread
+  target: 2023
+  tier: 2
+  title: Startup, Scaleup, Screwup
+  total: 240
+- author:
+  - Jurgen Appelo
+  completed_in: 2021
+  date updated: 2022-12-11 16:54
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Generationen-Management_lid_47223617.html
+  status: read
+  tier: 1
+  title: Management 3.0
+  total: 456
+- author:
+  - Simon Sinek
+  completed_in: 2020
+  date updated: 2022-12-11 16:53
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Simon-Sinek/Start-With-Why_lid_16797959.html
+  status: read
+  tier: 1
+  title: Start with Why
+  total: 256
+- author:
+  - Geoffrey A. Moore
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Geoffrey-A-Moore/Crossing-the-Chasm-3rd-Edition_lid_26519037.html
+  status: paused
+  tier: 1
+  title: Crossing the Chasm
+  total: 256
+- author:
+  - Philip Houston
+  - Michael Floyd
+  - Susan Carnicero
+  - Don Tennant
+  completed_in: 2019
+  date updated: 2022-12-11 16:53
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Mike-Floyd-Philip-Houston-Susan-Carnicero/Spy-the-Lie_lid_21051349.html
+  status: read
+  tier: 2
+  title: Spy the Lie
+  total: 272
+- author:
+  - Dan Olsen
+  date updated: 2022-12-11 16:52
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Dan-Olsen/The-Lean-Product-Playbook_lid_25672794.html
+  status: unread
+  tier: 2
+  title: The Lean Product Playbook
+  total: 343
+- author:
+  - Insa Klasing
+  completed_in: 2021
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Bonnie-Garmus/Eine-Frage-der-Chemie_lid_45869075.html
+  status: read
+  tier: 2
+  title: Der 2-Stunden-Chef
+  total: 232
+- author:
+  - Dale Carnegie
+  completed_in: 2019
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Dale-Carnegie/How-to-Win-Friends-and-Influence-People_lid_11013916.html
+  status: read
+  tier: 1
+  title: How to Win Friends and Influence People
+  total: 260
+- author:
+  - Tiago Forte
+  date updated: 2022-12-11 16:51
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Tiago-Forte/Building-a-Second-Brain_lid_46193459.html
+  status: unread
+  tier: 1
+  title: Building a Second Brain
+  total: 272
+- author:
+  - Frederick P. Brooks Jr.
+  date updated: 2022-12-11 16:52
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Frederick-P-Brooks/The-Mythical-Man-Month_lid_3236893.html
+  status: paused
+  target: 2023
+  tier: 3
+  title: The Mythical Man-Month
+  total: 336
+- author:
+  - David Allen
+  completed_in: 2019
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/David-Allen/Getting-Things-Done_lid_39393100.html
+  status: read
+  tier: 1
+  title: Getting Things Done
+  total: 352
+- author:
+  - Blake Masters
+  - Peter Thiel
+  completed_in: 2020
+  date updated: 2022-12-11 16:51
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Peter-Thiel-Blake-Masters/Zero-to-One_lid_25748240.html
+  status: read
+  tier: 1
+  title: Zero to One
+  total: 224
+- author:
+  - Manuel Jork
+  completed_in: null
+  date updated: 2022-12-11 16:50
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Manuel-Jork/Artgerechte-Haltung-von-Menschen_lid_41767284.html
+  status: unread
+  target: 2023
+  tier: 3
+  title: Artgerechte Haltung von Menschen
+  total: 254
+- author:
+  - James Clear
+  completed_in: 2021
+  date updated: 2022-11-05 10:05
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/James-Clear/Atomic-Habits_lid_42163710.html
+  status: read
+  tier: 1
+  title: Atomic Habits
+  total: 0
+- author:
+  - Dr. Leon Windscheid
+  date updated: 2022-12-11 16:51
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Leon-Windscheid/Besser-fuehlen_lid_43047737.html
+  status: unread
+  target: 2023
+  tier: 2
+  title: Besser fühlen
+  total: 336
+- author:
+  - Andrew Chen
+  date updated: 2022-12-11 16:52
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Andrew-Chen/The-Cold-Start-Problem_lid_43724690.html
+  status: unread
+  tier: 0
+  title: The Cold Start Problem
+  total: 336
+- author:
+  - Kerry Patterson
+  - Joseph Grenny
+  - Ron McMillan
+  - Al Switzler
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Kerry-Patterson-Joseph-Grenny-Ron-McMillan-Al-Switzler/Crucial-Conversations_lid_44800676.html
+  status: unread
+  tier: 2
+  title: Crucial Conversations
+  total: 250
+- author:
+  - Nicole Forsgren PhD
+  - Jez Humble
+  - Gene Kim
+  date updated: 2022-12-11 16:50
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Forsgren-Jez-Humble-Gene-Kim/Accelerate_lid_36453836.html
+  status: unread
+  tier: 1
+  title: Accelerate
+  total: 288
+- author:
+  - Richard P. Feynman
+  date updated: 2022-12-11 17:08
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Richard-P-Feynman/Surely-Youre-Joking-Mr-Feynman_lid_33188044.html
+  status: unread
+  tier: 3
+  title: Surely You're Joking, Mr. Feynman! Adventures of a Curious Character
+  total: 352
+- author:
+  - Waldemar Zeiler
+  date updated: 2022-12-11 16:51
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Waldemar-Zeiler/Unfuck-the-Economy_lid_43214156.html
+  status: unread
+  target: 2023
+  tier: 2
+  title: Unfuck the Economy
+  total: 150
+- author:
+  - Joana Breidenbach
+  - Bettina Rollow
+  date updated: 2022-12-11 16:53
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Joana-Breidenbach-Bettina-Rollow/New-Work-needs-Inner-Work_lid_41110680.html
+  status: unread
+  tier: 1
+  title: New Work needs Inner Work
+  total: 164
+- author:
+  - Harvard Business Review
+  - Deborah M. Kolb
+  - Rob Cross
+  - Joseph L. Badaracco
+  - Laura Morgan Roberts
+  completed_in: 2022
+  date updated: 2022-12-11 11:34
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Harvard-Business-Review-Deborah-M-Kolb-Rob-Cross-Joseph-L-Jr-Badaracco-Laura-Morgan-Roberts/HBRs-10-Must-Reads-on-Managing-Yourself-Vol-2-with-bonus-article-Be-Your-Own-Best-Advocate-by-Deborah-M-Kolb_lid_43535271.html
+  status: read
+  tier: 2
+  title: HBR's 10 Must Reads on Managing Yourself, Vol. 2 (with bonus article Be Your
+    Own Best Advocate by Deborah M. Kolb)
+  total: 176
+- author:
+  - Gary Vaynerchuk
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Gary-Vaynerchuk/Crushing-It_lid_36870850.html
+  status: unread
+  tier: 2
+  title: Crushing It!
+  total: 288
+- author:
+  - Geoff Watts
+  date updated: 2022-12-11 16:53
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Ben-Lynch-The-Clinic-Mastery-Team/Grow-Your-Clinic_lid_47024489.html
+  status: unread
+  tier: 2
+  title: Team Mastery
+  total: 200
+- author:
+  - Sebastian Klein
+  - Ben Hughes
+  completed_in: 2022
+  date updated: 2022-12-11 16:52
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Sebastian-Klein-Ben-Hughes/The-Loop-Approach_lid_40530953.html
+  status: read
+  tier: 1
+  title: The Loop Approach
+  total: 233
+- author:
+  - David Heinemeier Hansson
+  - Jason Fried
+  completed_in: 2021
+  date updated: 2022-12-11 16:53
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/David-Heinemeier-Hansson-Jason-Fried/ReWork_lid_13827395.html
+  status: read
+  tier: 1
+  title: ReWork
+  total: 288
+- author:
+  - Harvard Business Review
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Harvard-Business-Review/HBRs-10-Must-Reads-on-Strategy-2-Volume-Collection_lid_42559966.html
+  status: unread
+  tier: 2
+  title: HBR's 10 Must Reads on Strategy
+  total: 278
+- author:
+  - Tim Phillips
+  date updated: 2022-12-11 16:51
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Tim-Phillips/Charles-Mackays-Extraordinary-Popular-Delusions-and-the-Madness-of-Crowds_lid_7956656.html
+  status: unread
+  tier: 3
+  title: Charles Mackay's Extraordinary Popular Delusions and the Madness of Crowds
+  total: 120
+- author:
+  - Rutger Bregman
+  completed_in: 2022
+  date updated: 2022-12-11 16:51
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Rutger-Bregman/Utopia-for-Realists_lid_33765560.html
+  status: read
+  tier: 1
+  title: Utopia for Realists
+  total: 336
+- author:
+  - Charles Duhigg
+  date updated: 2022-12-11 16:52
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Charles-Duhigg/The-Power-of-Habit_lid_24522275.html
+  status: unread
+  tier: 3
+  title: The Power of Habit
+  total: 0
+- author:
+  - April Dunford
+  date updated: 2022-12-11 16:53
+  inventory: open
+  link: https://www.genialokal.de/Produkt/April-Dunford/Obviously-Awesome-How-to-Nail-Product-Positioning-so-Customers-Get-It-Buy-It-Love-It_lid_41627775.html
+  status: unread
+  tier: 2
+  title: Obviously Awesome
+  total: 202
+- author:
+  - James F. Richardson
+  completed_in: null
+  date updated: 2022-12-11 16:53
+  inventory: open
+  link: https://www.genialokal.de/Produkt/James-F-Richardson/Ramping-Your-Brand_lid_42301182.html
+  status: unread
+  target: 2023
+  tier: 3
+  title: Ramping Your Brand
+  total: 238
+- author:
+  - Christopher Clark
+  date updated: 2022-12-11 16:52
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Christopher-Clark/The-Sleepwalkers_lid_20673192.html
+  status: paused
+  target: 2023
+  tier: 3
+  title: The Sleepwalkers
+  total: 736
+- author:
+  - Kim Scott
+  date updated: 2022-12-11 16:53
+  inventory: ordered
+  link: https://www.genialokal.de/Produkt/Kim-Scott/Radical-Candor_lid_41101412.html
+  status: unread
+  tier: 1
+  title: Radical Candor
+  total: 269
+- author:
+  - Marie Kondo
+  date updated: 2022-12-11 16:52
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Marie-Kondo/The-Life-Changing-Magic-of-Tidying_lid_25018240.html
+  status: unread
+  tier: 2
+  title: The Life-Changing Magic of Tidying
+  total: 256
+- author:
+  - Franz Kafka
+  completed_in: 2020
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Franz-Kafka/Die-Verwandlung_lid_1350759.html
+  status: read
+  tier: 3
+  title: Die Verwandlung
+  total: 119
+- author:
+  - Kate Raworth
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Kate-Raworth/Doughnut-Economics_lid_33925118.html
+  status: unread
+  tier: 1
+  title: Doughnut Economics
+  total: 372
+- author:
+  - Janina Kugel
+  completed_in: 2021
+  date updated: 2022-12-11 16:54
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Spidey-Williams/Now-Judge-This-Book-By-Its-Cover_lid_6005472.html
+  status: read
+  tier: 1
+  title: It's now
+  total: 200
+- author:
+  - Daniel Kahneman
+  completed_in: 2020
+  date updated: 2022-12-11 16:52
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Daniel-Kahneman/Thinking-Fast-and-Slow_lid_18532274.html
+  status: read
+  tier: 1
+  title: Thinking, Fast and Slow
+  total: 512
+- author:
+  - Napoleon Hill
+  date updated: 2022-12-11 16:52
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Napoleon-Hill/Think-and-Grow-Rich-Deutsche-Ausgabe_lid_37572460.html
+  status: reading
+  tier: 2
+  title: Think and Grow Rich
+  total: 314
+- author:
+  - Nir Eyal
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Emily-Mcintire/Hooked_lid_47451531.html
+  status: unread
+  target: 2023
+  tier: 2
+  title: Hooked
+  total: 256
