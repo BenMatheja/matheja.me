@@ -80,7 +80,7 @@
   title: Discover to Deliver
 - author:
   - Melissa Perri
-  inventory: ordered
+  inventory: obtained
   link: https://www.genialokal.de/Produkt/Melissa-Perri/Escaping-the-Build-Trap_lid_32010303.html
   status: unread
   tier: 1
@@ -139,7 +139,7 @@
   - David A. Aaker
   date updated: 2022-12-11 16:53
   inventory: open
-  link: https://www.genialokal.de/Produkt/David-A-Aaker/Spanning-Silos_lid_26950010.html
+  link: https://www.genialokal.de/Produkt/David-A-Aaker/Spanning-Silos-The-New-CMO-Imperative_lid_7300018.html
   status: unread
   tier: 2
   title: Spanning Silos
@@ -159,7 +159,7 @@
   - Cal Newport
   date updated: 2022-12-11 16:53
   inventory: open
-  link: https://www.genialokal.de/Produkt/Cal-Newport/So-Good-They-Cant-Ignore-You_lid_30358689.html
+  link: https://www.genialokal.de/Produkt/Cal-Newport/So-Good-They-Cant-Ignore-You_lid_32073441.html
   status: unread
   tier: 3
   title: So Good They Can't Ignore You
@@ -254,7 +254,7 @@
   total: 210
 - author:
   - Cal Newport
-  inventory: ordered
+  inventory: obtained
   link: https://www.genialokal.de/Produkt/Cal-Newport/Deep-Work_lid_28627866.html
   status: unread
   tier: 1
@@ -293,7 +293,7 @@
   - Erin Meyer
   date updated: 2022-12-11 16:52
   inventory: open
-  link: https://www.genialokal.de/Produkt/Erin-Meyer/The-Culture-Map_lid_27041793.html
+  link: https://www.genialokal.de/Produkt/IRB-Media/Summary-of-Erin-Meyers-The-Culture-Map_lid_48895165.html
   status: unread
   tier: 2
   title: The Culture Map
@@ -424,9 +424,9 @@
 - author:
   - Sarah Drasner
   date updated: 2022-12-11 11:04
-  inventory: ordered
+  inventory: obtained
   link: https://www.genialokal.de/Produkt/Sarah-Drasner/Engineering-Management-for-the-Rest-of-Us_lid_49130103.html
-  status: unread
+  status: reading
   tier: 1
   title: Engineering Management for the Rest of Us
   total: 0
@@ -488,7 +488,7 @@
   completed_in: 2020
   date updated: 2022-12-11 16:53
   inventory: obtained
-  link: https://www.genialokal.de/Produkt/Summary-Of-Start-With-Why-How-Great-Leaders-Inspire-Everyone-To-Take-Action-By-Simon-Sinek_lid_33479524.html
+  link: https://www.genialokal.de/Produkt/Simon-Sinek/Start-With-Why_lid_16797959.html
   status: read
   tier: 1
   title: Start with Why
@@ -585,7 +585,7 @@
   completed_in: null
   date updated: 2022-12-11 16:50
   inventory: open
-  link: https://www.genialokal.de/Produkt/Manuel-Jork/Artgerechte-Haltung-von-Menschen_lid_41588154.html
+  link: https://www.genialokal.de/Produkt/Manuel-Jork/Artgerechte-Haltung-von-Menschen_lid_41767284.html
   status: unread
   target: 2023
   tier: 3
@@ -646,7 +646,7 @@
   - Richard P. Feynman
   date updated: 2022-12-11 17:08
   inventory: open
-  link: https://www.genialokal.de/Produkt/Richard-P-Feynman/Surely-Youre-Joking-Mr-Feynman_lid_33188044.html
+  link: https://www.genialokal.de/Produkt/Richard-P-Feynman/Surely-Youre-Joking-Mr-Feynman_lid_3236231.html
   status: unread
   tier: 3
   title: Surely You're Joking, Mr. Feynman! Adventures of a Curious Character
@@ -794,8 +794,8 @@
 - author:
   - Kim Scott
   date updated: 2022-12-11 16:53
-  inventory: ordered
-  link: https://www.genialokal.de/Produkt/Scott-Kim/Radical-Candor_lid_41664940.html
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Kim-Scott/Radical-Candor_lid_41101412.html
   status: unread
   tier: 1
   title: Radical Candor
@@ -809,6 +809,16 @@
   tier: 2
   title: The Life-Changing Magic of Tidying
   total: 256
+- author:
+  - Amy C. Edmondson
+  completed_in: null
+  inventory: open
+  link: https://www.genialokal.de/Produkt/Amy-C-Edmondson/The-Fearless-Organization_lid_36412909.html
+  status: unread
+  target: 2023
+  tier: 1
+  title: The Fearless Organization
+  total: 265
 - author:
   - Franz Kafka
   completed_in: 2020
@@ -841,7 +851,7 @@
   completed_in: 2020
   date updated: 2022-12-11 16:52
   inventory: obtained
-  link: https://www.genialokal.de/Produkt/50minutes/Book-Review-Thinking-Fast-and-Slow-by-Daniel-Kahneman_lid_46568355.html
+  link: https://www.genialokal.de/Produkt/Daniel-Kahneman/Thinking-Fast-and-Slow_lid_18532274.html
   status: read
   tier: 1
   title: Thinking, Fast and Slow
