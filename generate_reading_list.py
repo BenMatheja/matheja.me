@@ -1,9 +1,10 @@
 import glob
 import frontmatter
 import yaml
-import pprint
 import requests
 from pyquery import PyQuery    
+
+glob_files = glob.glob("/Users/benmatheja/OneDrive/Knowledge/Resources/books/*.md")
 
 def resolve_genialokal_url(title, author):
     #print(title)
@@ -26,10 +27,10 @@ def resolve_genialokal_url(title, author):
     if (book_link):
         return  "https://www.genialokal.de" + tag.attr['href']
     else:
-        resolve_genialokal_url(title, "")
+        return resolve_genialokal_url(title, "")
 
 
-glob_files = glob.glob("/Users/benmatheja/OneDrive/Knowledge/Resources/books/*.md")
+
 
 data = []
 for p in glob_files:
