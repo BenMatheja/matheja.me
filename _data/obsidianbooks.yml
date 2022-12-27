@@ -98,20 +98,21 @@
   total: 160
 - author:
   - Tijen Onaran
-  - Christian Schön
-  date updated: 2022-12-11 16:53
+  completed_in: null
+  date updated: 2022-12-18 08:44
   inventory: obtained
   link: https://www.genialokal.de/Produkt/Tijen-Onaran/Nur-wer-sichtbar-ist-findet-auch-statt_lid_41941530.html
   status: paused
+  target: 2023
   tier: 2
   title: Nur wer sichtbar ist, findet auch statt
-  total: 208
+  total: 256
 - author:
   - Frederic Laloux
   completed_in: 2021
   date updated: 2022-12-11 16:53
   inventory: obtained
-  link: https://www.genialokal.de/Produkt/Frederic-Laloux/Reinventing-Organizations-visuell_lid_29422966.html
+  link: https://www.genialokal.de/Produkt/Christian-Ruether/Soziokratie-S3-Holakratie-Frederic-Laloux-Reinventing-Organizations-und-New-Work_lid_37428684.html
   status: read
   tier: 1
   title: Reinventing Organizations
@@ -159,7 +160,7 @@
   - Cal Newport
   date updated: 2022-12-11 16:53
   inventory: open
-  link: https://www.genialokal.de/Produkt/Cal-Newport/So-Good-They-Cant-Ignore-You_lid_32073441.html
+  link: https://www.genialokal.de/Produkt/Cal-Newport/So-Good-They-Cant-Ignore-You_lid_30358689.html
   status: unread
   tier: 3
   title: So Good They Can't Ignore You
@@ -238,7 +239,7 @@
   completed_in: 2019
   date updated: 2022-12-11 16:52
   inventory: obtained
-  link: https://www.genialokal.de/Produkt/Dailybooks/The-Martian-A-Novel-by-Andy-Weir-Conversation-Starters_lid_29396627.html
+  link: https://www.genialokal.de/Produkt/Andy-Weir/The-Martian_lid_25324597.html
   status: read
   tier: 1
   title: The Martian
@@ -283,7 +284,7 @@
   completed_in: null
   date updated: 2022-12-11 16:52
   inventory: open
-  link: https://www.genialokal.de/Produkt/IRB-Media/Summary-of-Hal-Elrod-and-Cameron-Herolds-The-Miracle-Morning-for-Entrepreneurs_lid_48905107.html
+  link: https://www.genialokal.de/Produkt/Libros-Mentores-Libros-Mentores/Resumen-Extendido-De-Mananas-Milagrosas-The-Miracle-Morning-Basado-En-El-Libro-De-Hal-Elrod_lid_40517688.html
   status: unread
   target: 2023
   tier: 3
@@ -317,6 +318,17 @@
   tier: 2
   title: Getting to Yes
   total: 242
+- author:
+  - Philippa Perry
+  completed_in: null
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/Philippa-Perry/The-Book-You-Wish-Your-Parents-Had-Read-and-Your-Children-Will-Be-Glad-That-You-Did_lid_41834052.html
+  status: reading
+  target: 2023
+  tier: 1
+  title: The Book You Wish Your Parents Had Read (and Your Children Will Be Glad That
+    You Did)
+  total: 256
 - author:
   - John P. Strelecky
   date updated: 2022-12-11 16:52
@@ -370,7 +382,7 @@
   - Michael Lewis
   date updated: 2022-12-11 16:54
   inventory: open
-  link: https://www.genialokal.de/Produkt/Michael-Lewis/Liars-Poker-Rising-Through-the-Wreckage-on-Wall-Street_lid_25421906.html
+  link: https://www.genialokal.de/Produkt/Michael-Lewis/Liars-Poker_lid_5312869.html
   status: unread
   tier: 2
   title: Liar's Poker
@@ -423,7 +435,7 @@
   total: 272
 - author:
   - Sarah Drasner
-  date updated: 2022-12-11 11:04
+  date updated: 2022-12-18 08:41
   inventory: obtained
   link: https://www.genialokal.de/Produkt/Sarah-Drasner/Engineering-Management-for-the-Rest-of-Us_lid_49130103.html
   status: reading
@@ -467,7 +479,7 @@
   - Jurgen Appelo
   date updated: 2022-12-11 16:53
   inventory: open
-  link: https://www.genialokal.de/Produkt/Jurgen-Appelo/Startup-Scaleup-Screwup_lid_40392043.html
+  link: https://www.genialokal.de/Produkt/Jurgen-Appelo/Startup-Scaleup-Screwup_lid_40392138.html
   status: unread
   target: 2023
   tier: 2
@@ -493,6 +505,17 @@
   tier: 1
   title: Start with Why
   total: 256
+- author:
+  - Liz Fosslien
+  - Mollie West Duffy
+  completed_in: null
+  inventory: obtained
+  link: https://www.genialokal.de/Produkt/IRB-Media/Summary-of-Liz-Fosslien-Mollie-West-Duffys-Big-Feelings_lid_48768764.html
+  status: unread
+  target: 2023
+  tier: 3
+  title: Big Feelings
+  total: 317
 - author:
   - Geoffrey A. Moore
   inventory: obtained
@@ -646,7 +669,7 @@
   - Richard P. Feynman
   date updated: 2022-12-11 17:08
   inventory: open
-  link: https://www.genialokal.de/Produkt/Richard-P-Feynman/Surely-Youre-Joking-Mr-Feynman_lid_3236231.html
+  link: https://www.genialokal.de/Produkt/Richard-P-Feynman/Surely-Youre-Joking-Mr-Feynman_lid_33188044.html
   status: unread
   tier: 3
   title: Surely You're Joking, Mr. Feynman! Adventures of a Curious Character
@@ -823,7 +846,7 @@
   - Franz Kafka
   completed_in: 2020
   inventory: obtained
-  link: https://www.genialokal.de/Produkt/Wilhelm-Grosse/Lektuereschluessel-Franz-Kafka-Die-Verwandlung_lid_20251922.html
+  link: https://www.genialokal.de/Produkt/Alain-Ottiker/Ottiker-Alain-Lektuereschluessel-XL-Franz-Kafka-Die-Verwandlung_lid_32969835.html
   status: read
   tier: 3
   title: Die Verwandlung
